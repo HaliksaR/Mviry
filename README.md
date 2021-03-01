@@ -1,4 +1,4 @@
-
+[![](https://jitpack.io/v/HaliksaR/Mviry.svg)](https://jitpack.io/#HaliksaR/Mviry) [![Android CI](https://github.com/HaliksaR/Mviry/actions/workflows/android.yml/badge.svg?branch=master)](https://github.com/HaliksaR/Mviry/actions/workflows/android.yml)
 
 ## Download
 ```groovy
